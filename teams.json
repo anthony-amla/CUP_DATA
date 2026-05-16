@@ -1,0 +1,338 @@
+[
+  {
+    "key": "algeria",
+    "label": "Algeria",
+    "fifa_code": "ALG",
+    "colors": { "primary": "#006633", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/dz.svg"
+  },
+  {
+    "key": "argentina",
+    "label": "Argentina",
+    "fifa_code": "ARG",
+    "colors": { "primary": "#75AADB", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ar.svg"
+  },
+  {
+    "key": "australia",
+    "label": "Australia",
+    "fifa_code": "AUS",
+    "colors": { "primary": "#FFCD00", "secondary": "#00843D" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/au.svg"
+  },
+  {
+    "key": "austria",
+    "label": "Austria",
+    "fifa_code": "AUT",
+    "colors": { "primary": "#ED2939", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/at.svg"
+  },
+  {
+    "key": "belgium",
+    "label": "Belgium",
+    "fifa_code": "BEL",
+    "colors": { "primary": "#FDDA24", "secondary": "#EF3340" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/be.svg"
+  },
+  {
+    "key": "brasil",
+    "label": "Brazil",
+    "fifa_code": "BRA",
+    "colors": { "primary": "#009C3B", "secondary": "#FEDF00" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/br.svg"
+  },
+  {
+    "key": "canada",
+    "label": "Canada",
+    "fifa_code": "CAN",
+    "colors": { "primary": "#FF0000", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ca.svg"
+  },
+  {
+    "key": "colombia",
+    "label": "Colombia",
+    "fifa_code": "COL",
+    "colors": { "primary": "#FCD116", "secondary": "#003893" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/co.svg"
+  },
+  {
+    "key": "croatia",
+    "label": "Croatia",
+    "fifa_code": "CRO",
+    "colors": { "primary": "#171796", "secondary": "#FF0000" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/hr.svg"
+  },
+  {
+    "key": "ecuador",
+    "label": "Ecuador",
+    "fifa_code": "ECU",
+    "colors": { "primary": "#FFD700", "secondary": "#034EA2" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ec.svg"
+  },
+  {
+    "key": "egypt",
+    "label": "Egypt",
+    "fifa_code": "EGY",
+    "colors": { "primary": "#CE1126", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/eg.svg"
+  },
+  {
+    "key": "england",
+    "label": "England",
+    "fifa_code": "ENG",
+    "colors": { "primary": "#FFFFFF", "secondary": "#CE1124" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/gb-eng.svg"
+  },
+  {
+    "key": "france",
+    "label": "France",
+    "fifa_code": "FRA",
+    "colors": { "primary": "#002395", "secondary": "#ED2939" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/fr.svg"
+  },
+  {
+    "key": "germany",
+    "label": "Germany",
+    "fifa_code": "GER",
+    "colors": { "primary": "#000000", "secondary": "#FFCE00" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/de.svg"
+  },
+  {
+    "key": "ghana",
+    "label": "Ghana",
+    "fifa_code": "GHA",
+    "colors": { "primary": "#FFD700", "secondary": "#CE1126" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/gh.svg"
+  },
+  {
+    "key": "iran",
+    "label": "Iran",
+    "fifa_code": "IRN",
+    "colors": { "primary": "#239F40", "secondary": "#DA0000" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ir.svg"
+  },
+  {
+    "key": "iraq",
+    "label": "Iraq",
+    "fifa_code": "IRQ",
+    "colors": { "primary": "#CE1126", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/iq.svg"
+  },
+  {
+    "key": "ivory_coast",
+    "label": "Ivory Coast",
+    "fifa_code": "CIV",
+    "colors": { "primary": "#FF8200", "secondary": "#009E60" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ci.svg"
+  },
+  {
+    "key": "japan",
+    "label": "Japan",
+    "fifa_code": "JPN",
+    "colors": { "primary": "#BC002D", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/jp.svg"
+  },
+  {
+    "key": "mexico",
+    "label": "Mexico",
+    "fifa_code": "MEX",
+    "colors": { "primary": "#006847", "secondary": "#CE1126" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/mx.svg"
+  },
+  {
+    "key": "morocco",
+    "label": "Morocco",
+    "fifa_code": "MAR",
+    "colors": { "primary": "#C1272D", "secondary": "#006233" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ma.svg"
+  },
+  {
+    "key": "netherlands",
+    "label": "Netherlands",
+    "fifa_code": "NED",
+    "colors": { "primary": "#FF6600", "secondary": "#21468B" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/nl.svg"
+  },
+  {
+    "key": "new_zealand",
+    "label": "New Zealand",
+    "fifa_code": "NZL",
+    "colors": { "primary": "#012169", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/nz.svg"
+  },
+  {
+    "key": "norway",
+    "label": "Norway",
+    "fifa_code": "NOR",
+    "colors": { "primary": "#EF2B2D", "secondary": "#002868" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/no.svg"
+  },
+  {
+    "key": "panama",
+    "label": "Panama",
+    "fifa_code": "PAN",
+    "colors": { "primary": "#005AA7", "secondary": "#D21034" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/pa.svg"
+  },
+  {
+    "key": "paraguay",
+    "label": "Paraguay",
+    "fifa_code": "PAR",
+    "colors": { "primary": "#D52B1E", "secondary": "#0038A8" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/py.svg"
+  },
+  {
+    "key": "portugal",
+    "label": "Portugal",
+    "fifa_code": "POR",
+    "colors": { "primary": "#006600", "secondary": "#FF0000" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/pt.svg"
+  },
+  {
+    "key": "qatar",
+    "label": "Qatar",
+    "fifa_code": "QAT",
+    "colors": { "primary": "#8A1538", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/qa.svg"
+  },
+  {
+    "key": "saudi_arabia",
+    "label": "Saudi Arabia",
+    "fifa_code": "KSA",
+    "colors": { "primary": "#006C35", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/sa.svg"
+  },
+  {
+    "key": "senegal",
+    "label": "Senegal",
+    "fifa_code": "SEN",
+    "colors": { "primary": "#00853F", "secondary": "#FDEF42" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/sn.svg"
+  },
+  {
+    "key": "south_korea",
+    "label": "South Korea",
+    "fifa_code": "KOR",
+    "colors": { "primary": "#003478", "secondary": "#C60C30" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/kr.svg"
+  },
+  {
+    "key": "spain",
+    "label": "Spain",
+    "fifa_code": "ESP",
+    "colors": { "primary": "#AA151B", "secondary": "#F1BF00" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/es.svg"
+  },
+  {
+    "key": "switzerland",
+    "label": "Switzerland",
+    "fifa_code": "SUI",
+    "colors": { "primary": "#FF0000", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ch.svg"
+  },
+  {
+    "key": "tunisia",
+    "label": "Tunisia",
+    "fifa_code": "TUN",
+    "colors": { "primary": "#E70013", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/tn.svg"
+  },
+  {
+    "key": "turkey",
+    "label": "Turkey",
+    "fifa_code": "TUR",
+    "colors": { "primary": "#E30A17", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/tr.svg"
+  },
+  {
+    "key": "uruguay",
+    "label": "Uruguay",
+    "fifa_code": "URU",
+    "colors": { "primary": "#5CBFEB", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/uy.svg"
+  },
+  {
+    "key": "usa",
+    "label": "United States",
+    "fifa_code": "USA",
+    "colors": { "primary": "#0A3161", "secondary": "#B31942" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/us.svg"
+  },
+  {
+    "key": "uzbekistan",
+    "label": "Uzbekistan",
+    "fifa_code": "UZB",
+    "colors": { "primary": "#1EB53A", "secondary": "#0099B5" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/uz.svg"
+  },
+  {
+    "key": "south_africa",
+    "label": "Africa do Sul",
+    "fifa_code": "RSA",
+    "colors": { "primary": "#007A5E", "secondary": "#CE1126" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/za.svg"
+  },
+  {
+    "key": "bosnia_and_herzegovina",
+    "label": "Bosnia and Herzegovina",
+    "fifa_code": "BIH",
+    "colors": { "primary": "#003A7C", "secondary": "#FFC400" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ba.svg"
+  },
+  {
+    "key": "congo_dr",
+    "label": "Congo DR",
+    "fifa_code": "COD",
+    "colors": { "primary": "#4BAFDD", "secondary": "#FFD700" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/cd.svg"
+  },
+  {
+    "key": "cabo_verde",
+    "label": "Cabo Verde",
+    "fifa_code": "CPV",
+    "colors": { "primary": "#0066CC", "secondary": "#FFCC00" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/cv.svg"
+  },
+  {
+    "key": "curacao",
+    "label": "Curacao",
+    "fifa_code": "CUW",
+    "colors": { "primary": "#0B5394", "secondary": "#FFF200" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/cw.svg"
+  },
+  {
+    "key": "czech_republic",
+    "label": "Czech Republic",
+    "fifa_code": "CZE",
+    "colors": { "primary": "#0033CC", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/cz.svg"
+  },
+  {
+    "key": "haiti",
+    "label": "Haiti",
+    "fifa_code": "HAI",
+    "colors": { "primary": "#003478", "secondary": "#FF0000" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/ht.svg"
+  },
+  {
+    "key": "jordan",
+    "label": "Jordan",
+    "fifa_code": "JOR",
+    "colors": { "primary": "#000000", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/jo.svg"
+  },
+  {
+    "key": "scotland",
+    "label": "Scotland",
+    "fifa_code": "SCO",
+    "colors": { "primary": "#0033A7", "secondary": "#FFFFFF" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/gb-sct.svg"
+  },
+  {
+    "key": "sweden",
+    "label": "Sweden",
+    "fifa_code": "SWE",
+    "colors": { "primary": "#004B87", "secondary": "#FFD100" },
+    "flag": "https://raw.githubusercontent.com/anthony-amla/countries-flags/9f5af2552ca58f0f478fc07b708fdad19c85c077/svg/se.svg"
+  }
+]

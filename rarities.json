@@ -1,0 +1,26 @@
+{
+  "common": {
+    "label": "Comum",
+    "color": "#ffffff",
+    "chance": 70,
+    "points": 10
+  },
+  "rare": {
+    "label": "Rara",
+    "color": "#00ff00",
+    "chance": 20,
+    "points": 20
+  },
+  "legend": {
+    "label": "Lendária",
+    "color": "#ff0000",
+    "chance": 8,
+    "points": 40
+  },
+  "mystic": {
+    "label": "Mística",
+    "color": "#0000ff",
+    "chance": 2,
+    "points": 80
+  }
+}

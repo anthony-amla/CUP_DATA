@@ -1,0 +1,288 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "year": 2026,
+  "rounds": {
+    "round_of_16": {
+      "left_side": [
+        {
+          "match_id": "J74",
+          "date": "2026-06-28",
+          "time": "17:30",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J77",
+          "date": "2026-06-30",
+          "time": "18:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J73",
+          "date": "2026-06-28",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J75",
+          "date": "2026-06-29",
+          "time": "22:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J83",
+          "date": "2026-07-02",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J84",
+          "date": "2026-07-02",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J81",
+          "date": "2026-07-01",
+          "time": "21:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J82",
+          "date": "2026-07-01",
+          "time": "17:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ],
+      "right_side": [
+        {
+          "match_id": "J76",
+          "date": "2026-06-29",
+          "time": "13:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J78",
+          "date": "2026-06-30",
+          "time": "14:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J79",
+          "date": "2026-07-05",
+          "time": "21:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J80",
+          "date": "2026-07-05",
+          "time": "17:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J86",
+          "date": "2026-07-07",
+          "time": "13:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J88",
+          "date": "2026-07-03",
+          "time": "15:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J85",
+          "date": "2026-07-07",
+          "time": "17:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J87",
+          "date": "2026-07-03",
+          "time": "22:30",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ]
+    },
+    "quarterfinals": {
+      "left_side": [
+        {
+          "match_id": "J89",
+          "date": "2026-07-09",
+          "time": "17:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J90",
+          "date": "2026-07-04",
+          "time": "14:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J93",
+          "date": "2026-07-06",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J94",
+          "date": "2026-07-06",
+          "time": "21:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ],
+      "right_side": [
+        {
+          "match_id": "J91",
+          "date": "2026-07-08",
+          "time": "18:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J92",
+          "date": "2026-07-05",
+          "time": "21:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J95",
+          "date": "2026-07-07",
+          "time": "22:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        },
+        {
+          "match_id": "J96",
+          "date": "2026-07-07",
+          "time": "12:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ]
+    },
+    "semifinals": {
+      "left_side": [
+        {
+          "match_id": "J101",
+          "date": "2026-07-19",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ],
+      "right_side": [
+        {
+          "match_id": "J102",
+          "date": "2026-07-20",
+          "time": "16:00",
+          "team1": "TBA",
+          "team2": "TBA",
+          "winner": "TBA",
+          "location": "TBA"
+        }
+      ]
+    },
+    "third_place": [
+      {
+        "match_id": "RU101",
+        "date": "2026-07-18",
+        "time": "18:00",
+        "team1": "TBA",
+        "team2": "TBA",
+        "winner": "TBA",
+        "location": "TBA"
+      }
+    ],
+    "final": [
+      {
+        "match_id": "J103",
+        "date": "2026-07-19",
+        "time": "16:00",
+        "team1": "TBA",
+        "team2": "TBA",
+        "winner": "TBA",
+        "location": "TBA"
+      }
+    ]
+  },
+  "schedule": {
+    "group_stage": "Junho 2026",
+    "round_of_16": "28 Junho - 7 Julho 2026",
+    "quarterfinals": "4 - 8 Julho 2026",
+    "semifinals": "9 - 10 Julho 2026",
+    "third_place": "14 Julho 2026",
+    "final": "19 Julho 2026"
+  }
+}

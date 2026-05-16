@@ -1,0 +1,61 @@
+{
+    "MEX": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "RSA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "KOR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "CZE": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    
+    "CAN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "BIH": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "QAT": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "SUI": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "BRA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "MAR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "HAI": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "SCO": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "USA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "PAR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "AUS": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "TUR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "GER": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "CUW": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "CIV": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "ECU": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "NED": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "JPN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "SWE": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "TUN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "BEL": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "EGY": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "IRN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "NZL": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "ESP": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "CPV": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "KSA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "URU": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "FRA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "SEN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "IRQ": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "NOR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "ARG": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "ALG": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "AUT": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "JOR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+
+    "POR": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "COD": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "UZB": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "COL": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    
+    "ENG": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "CRO": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}, 
+    "GHA": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null},
+    "PAN": {"pts": 0, "games": 0, "won": 0, "lost": 0, "draw": 0, "goals": 0, "goals_taken": 0, "last_results": [], "pass": null}
+}
