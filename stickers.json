@@ -1,5 +1,11 @@
 [
     {
+        "type":  "team",
+        "code":  "MEX",
+        "name":  "México",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "MEX",
         "name":  "Luis Malagón",
@@ -74,7 +80,13 @@
         "code":  "MEX",
         "name":  "Roberto Alvarado",
         "position":  "ATA",
-        "index":  1
+        "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "RSA",
+        "name":  "África do Sul",
+        "index":  0
     },
     {
         "type":  "player",
@@ -154,6 +166,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "KOR",
+        "name":  "Coreia do Sul",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "KOR",
         "name":  "Hyeonwoo Jo",
@@ -229,6 +247,12 @@
         "name":  "HyeonGyu Oh",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "CZE",
+        "name":  "República Tcheca",
+        "index":  0
     },
     {
         "type":  "player",
@@ -308,6 +332,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "CAN",
+        "name":  "Canadá",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "CAN",
         "name":  "Dayne St. Clair",
@@ -383,6 +413,12 @@
         "name":  "Jonathan David",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "BIH",
+        "name":  "Bósnia e Herzegovina",
+        "index":  0
     },
     {
         "type":  "player",
@@ -462,6 +498,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "QAT",
+        "name":  "Catar",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "QAT",
         "name":  "Meshaal Barsham",
@@ -536,7 +578,13 @@
         "code":  "QAT",
         "name":  "Almoez Ali",
         "position":  "ATA",
-        "index":  1
+        "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "SUI",
+        "name":  "Suíça",
+        "index":  0
     },
     {
         "type":  "player",
@@ -616,6 +664,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "BRA",
+        "name":  "Brasil",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "BRA",
         "name":  "Alisson",
@@ -691,6 +745,12 @@
         "name":  "Estêvão",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "MAR",
+        "name":  "Marrocos",
+        "index":  0
     },
     {
         "type":  "player",
@@ -770,6 +830,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "HAI",
+        "name":  "Haiti",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "HAI",
         "name":  "Johny Placide",
@@ -845,6 +911,12 @@
         "name":  "Frantzdy Pierrot",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "SCO",
+        "name":  "Escócia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -924,6 +996,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "USA",
+        "name":  "Estados Unidos",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "USA",
         "name":  "Math Freese",
@@ -999,6 +1077,12 @@
         "name":  "Folarin Balogun",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "PAR",
+        "name":  "Paraguai",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1078,6 +1162,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "AUS",
+        "name":  "Austrália",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "AUS",
         "name":  "Mathew Ryan",
@@ -1153,6 +1243,12 @@
         "name":  "Nestory Irankunda",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "TUR",
+        "name":  "Turquia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1232,6 +1328,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "GER",
+        "name":  "Alemanha",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "GER",
         "name":  "Marc-André ter Stegen",
@@ -1307,6 +1409,12 @@
         "name":  "Nick Woltemade",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "CUW",
+        "name":  "Curaçao",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1386,6 +1494,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "CIV",
+        "name":  "Costa do Marfim",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "CIV",
         "name":  "Yahia Fofana",
@@ -1461,6 +1575,12 @@
         "name":  "Evann Guessand",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "ECU",
+        "name":  "Equador",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1540,6 +1660,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "NED",
+        "name":  "Países Baixos",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "NED",
         "name":  "Bart Verbruggen",
@@ -1615,6 +1741,12 @@
         "name":  "Cody Gakpo",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "JPN",
+        "name":  "Japão",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1694,6 +1826,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "SWE",
+        "name":  "Suécia",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "SWE",
         "name":  "Victor Johansson",
@@ -1769,6 +1907,12 @@
         "name":  "Viktor Gyökeres",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "TUN",
+        "name":  "Tunísia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -1848,6 +1992,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "BEL",
+        "name":  "Bélgica",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "BEL",
         "name":  "Thibaut Courtois",
@@ -1923,6 +2073,12 @@
         "name":  "Romelu Lukaku",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "EGY",
+        "name":  "Egito",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2002,6 +2158,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "IRN",
+        "name":  "Irã",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "IRN",
         "name":  "Alireza Beiranvand",
@@ -2077,6 +2239,12 @@
         "name":  "Alireza Jahanbakhsh",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "NZL",
+        "name":  "Nova Zelândia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2156,6 +2324,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "ESP",
+        "name":  "Espanha",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "ESP",
         "name":  "Unai Simón",
@@ -2231,6 +2405,12 @@
         "name":  "Mikel Oyarzabal",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "CPV",
+        "name":  "Cabo Verde",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2310,6 +2490,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "KSA",
+        "name":  "Arábia Saudita",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "KSA",
         "name":  "Nawaf Alaqidi",
@@ -2385,6 +2571,12 @@
         "name":  "Saleh Alshehri",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "URU",
+        "name":  "Uruguai",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2464,6 +2656,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "FRA",
+        "name":  "França",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "FRA",
         "name":  "Mike Maignan",
@@ -2539,6 +2737,12 @@
         "name":  "Hugo Ekitike",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "SEN",
+        "name":  "Senegal",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2618,6 +2822,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "IRQ",
+        "name":  "Iraque",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "IRQ",
         "name":  "Jalal Hassan",
@@ -2693,6 +2903,12 @@
         "name":  "Mohanad Ali",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "NOR",
+        "name":  "Noruega",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2772,6 +2988,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "ARG",
+        "name":  "Argentina",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "ARG",
         "name":  "Emiliano Martínez",
@@ -2847,6 +3069,12 @@
         "name":  "Lautaro Martínez",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "ALG",
+        "name":  "Argélia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -2926,6 +3154,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "AUT",
+        "name":  "Áustria",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "AUT",
         "name":  "Alexander Schlager",
@@ -3001,6 +3235,12 @@
         "name":  "Michael Gregoritsch",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "JOR",
+        "name":  "Jordânia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -3080,6 +3320,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "POR",
+        "name":  "Portugal",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "POR",
         "name":  "Diogo Costa",
@@ -3155,6 +3401,12 @@
         "name":  "Rafael Leão",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "COD",
+        "name":  "Congo",
+        "index":  0
     },
     {
         "type":  "player",
@@ -3234,6 +3486,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "UZB",
+        "name":  "Uzbequistão",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "UZB",
         "name":  "Utkir Yusupov",
@@ -3309,6 +3567,12 @@
         "name":  "Abbosbek Fayzullaev",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "COL",
+        "name":  "Colômbia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -3388,6 +3652,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "ENG",
+        "name":  "Inglaterra",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "ENG",
         "name":  "Jordan Pickford",
@@ -3463,6 +3733,12 @@
         "name":  "Marcus Rashford",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "CRO",
+        "name":  "Croácia",
+        "index":  0
     },
     {
         "type":  "player",
@@ -3542,6 +3818,12 @@
         "index":  11
     },
     {
+        "type":  "team",
+        "code":  "GHA",
+        "name":  "Gana",
+        "index":  0
+    },
+    {
         "type":  "player",
         "code":  "GHA",
         "name":  "Lawrence Ati Zigi",
@@ -3617,6 +3899,12 @@
         "name":  "Antoine Semenyo",
         "position":  "ATA",
         "index":  11
+    },
+    {
+        "type":  "team",
+        "code":  "PAN",
+        "name":  "Panamá",
+        "index":  0
     },
     {
         "type":  "player",
