@@ -1,5 +1,5 @@
 {
-    "version": "1",
+    "version": "2",
     "teams": {
         "MEX": {"pts": 4, "games": 2, "won": 1, "lost": 0, "draw": 1, "goals": 3, "goals_taken": 1, "last_results": ["W", "D"], "pass": null},
         "RSA": {"pts": 3, "games": 2, "won": 1, "lost": 0, "draw": 0, "goals": 2, "goals_taken": 1, "last_results": ["W", "L"], "pass": null}, 
