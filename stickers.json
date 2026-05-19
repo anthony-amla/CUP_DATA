@@ -747,6 +747,13 @@
         "index":  11
     },
     {
+        "type":  "player",
+        "code":  "BRA",
+        "name":  "Neymar Jr",
+        "position":  "ATA",
+        "index":  12
+    },
+    {
         "type":  "team",
         "code":  "MAR",
         "name":  "Marrocos",
